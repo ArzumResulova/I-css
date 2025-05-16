@@ -1,0 +1,55 @@
+h1{
+
+color: rgba(229, 118, 212, 0.696);
+font-family: "Roboto Slab", serif;
+}
+
+ul{
+
+background-color: rgb(244, 186, 231);
+color: rgb(52, 39, 39);
+width: 15rem;
+border-radius: 1rem;
+border: 0.125rem solid rgb(255, 53, 120);
+box-shadow: 3rem  0.5rem 1rem plum;
+text-align: justify;
+padding: 1rem 3rem 1rem 2rem ;
+margin: 2rem 0rem;
+
+
+}
+
+.text{
+
+background-color:rgba(244, 186, 231);
+color: rgb(52, 39, 39);
+width: 25rem;
+border-radius: 0.7rem ;
+border: 0.112rem solid aqua ;
+box-shadow: 3rem 0.5rem 1rem plum;
+    text-align: center;
+    text-transform: inherit;
+    text-align-last: center;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(255, 0, 0);
+    text-decoration-style: wavy;
+    padding: 2rem 0rem;
+    margin: 2rem 23rem;
+
+}
+
+ .one{
+    background-color: rgba(244, 0, 191, 0.546);
+        color: rgb(52, 39, 39);
+        width: 15rem;
+        border-radius: 1rem;
+        border: 0.125rem solid rgb(255, 53, 120);
+        box-shadow: 3rem 0.5rem 1rem rgba(156, 105, 156, 0.757);
+        text-align: justify;
+        padding: 1rem 3rem 1rem 2rem;
+        margin: 2rem 0rem;
+
+
+}
+
+
